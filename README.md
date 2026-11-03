@@ -50,3 +50,19 @@ Beberapa tanda yang menimbulkan kecurigaan:
 4. Akses akun mengalami kendala meskipun saldo masih ditampilkan.
 
 Dokumentasi ini dibuat sebagai arsip pribadi dan bahan evaluasi agar lebih berhati-hati terhadap platform investasi, trading, atau penghasil uang yang meminta biaya tambahan sebelum proses penarikan dana dapat dilakukan.
+
+### Catatan Tambahan
+
+Salah satu hal yang menarik adalah adanya perbedaan pemahaman antara data transaksi blockchain dan data yang ditampilkan oleh platform.
+
+Ketika saya menunjukkan transaksi BSCScan yang digunakan untuk verifikasi penarikan dana sebesar 30 USDT, agen web memberikan penjelasan sebagai berikut:
+
+> "Pertama, deposit $30.00 Anda pada 31 Oktober 2026 memang masuk dan tercatat di deposit history. Tapi saya tidak melihat transaksi 30 USDT di BSCScan yang Anda tautkan. Mungkin itu deposit di platform lain atau catatan berbeda, karena di sistem Winzori deposit Anda tercatat sebagai $30.00 USD, bukan USDT."
+
+Menurut saya, penjelasan tersebut menunjukkan bahwa agen hanya mengacu pada data yang ditampilkan oleh sistem platform dan tidak memahami bahwa transfer yang dilakukan berasal dari transaksi aset kripto USDT di jaringan BNB Smart Chain (BSC).
+
+Padahal transaksi yang saya rujuk dapat dilihat secara publik melalui:
+
+https://bscscan.com/tx/0x9f95ff963b2216067f6235ff2caf85dedf73ad1e678ef6018b24eae27414e28c
+
+Perbedaan antara catatan internal platform dan bukti transaksi blockchain inilah yang menjadi salah satu alasan dokumentasi ini dibuat, agar seluruh kronologi dapat dicatat dan dievaluasi secara terbuka berdasarkan bukti yang tersedia.
